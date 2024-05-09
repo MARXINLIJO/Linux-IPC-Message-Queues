@@ -83,7 +83,6 @@ int main()
 }
 ```
 ## OUTPUT
-![image](https://github.com/MARXINLIJO/Linux-IPC-Message-Queues/assets/145742540/bbcb1fe8-ec59-48b3-b488-8fb7078368c8)
-
+![alt text](<Screenshot 2024-05-09 204800.png>)
 # RESULT:
 The programs are executed successfully.
